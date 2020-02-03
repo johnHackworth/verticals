@@ -1,3 +1,7 @@
+body {
+	margin: 0;
+	padding: 0;
+}
 #topbar {
 	height: 52px;
 	width: 100%;
@@ -6,6 +10,7 @@
 	background-color: #FFF;
 	text-align: right;
 	position: fixed;
+	top:0;
 }
 #topbar button {
 	background-color: #FFF;
@@ -29,8 +34,78 @@
 	width: 100%;	
 }
 
+#template > * {
+	padding-left: 26px;
+}
+
 #verticalContent {
 	display: flex;	
+}
+
+#acquireIntent {
+	display: block;
+	font-size: 26px;
+	width: 500px;
+	margin: 52px auto;
+}
+
+
+#acquireIntent input {
+	font-size: 26px;
+	font-color: #333;
+	padding: 10px 0 10px 24px;
+	border: 1px solid #BBB;
+}
+
+.ui-selectmenu-icon.ui-icon.ui-icon-triangle-1-s {
+	display: none !important;
+}
+
+#verticalAcquireSelect-button {
+	background-color: white;
+	width: 250px;
+}
+
+#verticalAcquireSelect-menu .ui-menu-item-wrapper {
+	height: 32px;
+	padding: 8px;
+	font-size: 26px;
+}
+
+#siteTitleAcquire {
+	width: 100%;
+	margin-top: 30px;
+	display: block;
+	text-align: left;
+}
+#siteTitleAcquire > * {
+	display: inline;
+}
+
+.preselect {
+	margin-right: 16px;
+}
+
+#selectorAcquire {
+	margin-top: 200px;
+	width: 100%;
+	display: block;
+	text-align: left;
+}
+
+#selectorAcquire.open {
+	height: 190px;
+}
+#selectorAcquire .preselect,
+#selectorAcquire #verticalAcquireSelect-button {
+	display: inline-block;
+}
+
+#continueButton1 {
+	display: block;
+	color: #555;
+	margin-top: 190px;
+	margin-left: 550px;
 }
 
 #sidebar {
@@ -39,11 +114,14 @@
 	width: 280px;
 	margin-top: 52px;
 	font-size: 13px;
-	font-family -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-
 }
+
+#sidebar, #acquireIntent, #designPicker, #siteTitleTop * {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+}
+
 #sidebar h4 {
-	font-size: 13px;
+	font-size: 13px !important;
 	margin: 1em 0;
 }
 
@@ -51,7 +129,7 @@
 	position: fixed;
 }
 
-#selector, #siteTitle {
+#selector, #siteTitle, #templates {
 	padding: 1em 1em 3em;
 	border-bottom: 1px solid #e1e1e1;
 }
@@ -76,4 +154,47 @@
 
 #templates img.selected { 
 	border: 3px solid #EE4;
+}
+
+#designPicker {
+	position: absolute;
+	top: 0;
+	left: auto;
+	display: block;
+	text-align: center;
+	width: 100%;
+	margin: 200px auto;
+	font-size: 26px;
+}
+
+#designPicker img {
+	margin: 20px;
+	border: 3px solid white;
+}
+
+#designPicker img:hover {
+	border: 3px solid gold;
+	cursor: pointer;
+}
+
+#siteTitleTop {
+	padding: 8px 28px;
+	float:left;
+	max-width: 500px;
+}
+
+#siteTitleTop .titleTopBar,
+#siteTitleTop .domainTopBar {
+	text-align: left;
+	display: inline-block;
+	width: 100%;
+	line-height: 1em;
+}
+#siteTitleTop .titleTopBar {
+	font-size: 18px;
+	margin-bottom: 4px;
+}
+#siteTitleTop .domainTopBar {
+	font-size: 12px;
+	color: #777;
 }

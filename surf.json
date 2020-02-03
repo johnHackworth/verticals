@@ -38,44 +38,60 @@
 	"text": {
 		"title": {
 			"primary": [ "{{title}}" ],
-			"secondary": [ "Tenemos lo que necesitas" ],
-			"tertiary": [ "Las mejores olas" ],
-			"cuaternary": [ "Iniciate al surf con nosotros" ],
-			"quintinary": [ "Descubre las mejores playas" ]
+			"secondary": [ "We have everything you need to get in the water" ],
+			"tertiary": [ "The Best Waves, The Best Beaches" ],
+			"cuaternary": [ "Learn how to surf with us!" ],
+			"quintinary": [ "Find the better surfing spots" ]
 		},
 		"subtitle": {
 			"primary": [ "" ],
-			"secondary": [ "Tablas, ceras, neoprenos" ],
-			"tertiary": [ "Descubre" ],
-			"cuaternary": [ "Quieres empezar?" ],
-			"quintinary": [ "Nuevo en la zona?" ]
+			"secondary": [ 
+				"Boards, wax, neoprene suits",
+				"Find the perfect board for you",
+				"All the gear, all the year" ],
+			"tertiary": [ "Find" ],
+			"cuaternary": [ "Do you want to surf and don't know how?" ],
+			"quintinary": [ "Not a local?" ]
 		},
 		"description": {
-			"primary": [ "La mejor tienda de sur de la costa del sol. Somos tu tienda de referencia" ],
+			"primary": [ "The best surf supplies shop in the entire Costa Brava, and probably the best surf shop in the entire mediterranean. Explore the best Mare Nostrum big waves with us!" ],
 			"secondary": [ 
-				"Todo lo que necesitas para surfear",
-				"Longboards, shortboards, windsurfing",
-				"Todo tipo de accesorios"
+				"Everything you need to surf. Come to visit us and get your entire gear here.",
+				"Longboards, shortboards, windsurfing. But not kite-surf. We don't like kite surf. Don't do that. No. Don't.",
+				"All kind of accesories. The best brands. Locally sourced bee wax for your boards."
 			],
 			"tertiary": [ 
-				"Días al de surf al año",
-				"Playas que explorar",
-				"Horas por día",
-				"Puro Surf"
+				"Pure surf",
+				"Beaches to discover",
+				"Hours per day",
+				"Yearly sunny surf days"
 			],
 			"cuaternary": [ 
-				"<li>Material incluido</li><li>Los mejores profesores</li><li>Varios niveles</li>",
-				"Si quieres iniciarte en el surf, nuestras clases para principiantes te lo ponen facil"
+				"<li>All the gear is included</li><li>We have the best instructors in the area</li><li>Several skill levels</li>",
+				"If you want to discover how to ride a wave, our instructors can teach you. Surf classes every day of the year, no matter what."
 			],
-			"quintinary": [ "Contrata nuestro Surf Safari y deja que nuestros expertos te lleven a las mejores playas de la zona!" ]
+			"quintinary": [ "" ]
 		}
+	},
+	"testimonial": {
+		"title": [ "Our clients" ],
+		"description": [
+			"I can find everything I need at {{title}}. Every time I pay them a visit, they have cool new gear to spend my hard-earned money in this pointless hobbie.",
+			"The first time I surfed was in the {{title}} initiation course. Before that, I tried to learn myself and the only thing I got was a broken arm. 100% recommended!",
+			"I've been purchasing stuff from them for years. With the amount of money I've give them, I could have purchased a house in Malibu already."
+		],
+		"name": [
+			"Ramon, Tarifa",
+			"Mikael, Zahara de los Atunes",
+			"Joan, Tarragona"
+		]
 	},
 	"link": {
 		"contact": [
-			"Contactanos"
+			"Contact us"
 		],
 		"section": [
-			"Nuestras playas"
+			"Find the best waves"
 		]
 	}
 

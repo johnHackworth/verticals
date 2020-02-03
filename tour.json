@@ -47,10 +47,14 @@
 		},
 		"subtitle": {
 			"primary": [ "Welcome to" ],
-			"secondary": [ "Your source for" ],
+			"secondary": [ 
+				"Your source for",
+				"Get a wholistic view",
+				"Insider access"
+			],
 			"tertiary": [ "We cover" ],
 			"cuaternary": [ "We look for new collaborators" ],
-			"quintinary": [ "Si estás organizando un evento" ]
+			"quintinary": [ "Are yuo looking for a new gig?" ]
 		},
 		"description": {
 			"primary": [ "Cycling Weekly is the world’s leading cycling website for news, racing, reviews, video, and fitness and training advice.<br/> As a brand, Cycling Weekly was originally founded in magazine form in 1891, with the website launching in 2006." ],
@@ -72,9 +76,22 @@
 			"quintinary": [ "" ]
 		}
 	},
+	"testimonial": {
+		"title": [ "Our clients" ],
+		"description": [
+			"I can find everything I need at {{title}}. Every time I pay them a visit, they have cool new gear to spend my hard-earned money in this pointless hobbie.",
+			"The first time I surfed was in the {{title}} initiation course. Before that, I tried to learn myself and the only thing I got was a broken arm. 100% recommended!",
+			"I've been purchasing stuff from them for years. With the amount of money I've give them, I could have purchased a house in Malibu already."
+		],
+		"name": [
+			"Ramon, Tarifa",
+			"Mikael, Zahara de los Atunes",
+			"Joan, Tarragona"
+		]
+	},
 	"link": {
 		"contact": [
-			"Contact us"
+			"Subscribe"
 		],
 		"section": [
 			"Join us!"

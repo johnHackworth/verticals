@@ -2,82 +2,99 @@
 	"image": {
 		"big": [
 			"https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-			"https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2016/08/tarta-santiago-blog.jpg",
+			"https://images.pexels.com/photos/205961/pexels-photo-205961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
 			"https://images.pexels.com/photos/2147834/pexels-photo-2147834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 
 		],
 		"medium": [
 			"https://st-listas.20minutos.es/images/2013-05/361196/4020111_640px.jpg?1368458028",
-			"https://okdiario.com/img/2019/01/04/roscon-de-reyes-relleno-de-nata-655x368.jpg",
+			"https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=325&w=470",
 			"https://st-listas.20minutos.es/images/2013-05/361196/4020099_640px.jpg?1368458028"
 
 		],
 		"small": [
 			"https://images.pexels.com/photos/1236680/pexels-photo-1236680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
 			"https://images.pexels.com/photos/1028704/pexels-photo-1028704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
-			"https://st-listas.20minutos.es/images/2011-02/272751/2855929_640px.jpg?1519231856"
+			"https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282"
 		]
 	},
 	"background": {
 		"big": [
 			"https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
 			"https://images.pexels.com/photos/2147834/pexels-photo-2147834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-			"https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2016/08/tarta-santiago-blog.jpg"
+			"https://images.pexels.com/photos/205961/pexels-photo-205961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 
 		],
 		"medium": [
-			"https://okdiario.com/img/2019/01/04/roscon-de-reyes-relleno-de-nata-655x368.jpg",
 			"https://st-listas.20minutos.es/images/2013-05/361196/4020111_640px.jpg?1368458028",
+			"https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=325&w=470",
 			"https://st-listas.20minutos.es/images/2013-05/361196/4020099_640px.jpg?1368458028"
 
 		],
 		"small": [
-			"https://st-listas.20minutos.es/images/2011-02/272751/2855929_640px.jpg?1519231856",
 			"https://images.pexels.com/photos/1236680/pexels-photo-1236680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
-			"https://images.pexels.com/photos/1028704/pexels-photo-1028704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282"
+			"https://images.pexels.com/photos/1028704/pexels-photo-1028704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
+			"https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282"
 		]
 	},	
 	"text": {
 		"title": {
 			"primary": [ "{{title}}" ],
-			"secondary": [ "Reposteria y delicatessen" ],
-			"tertiary": [ "Tartas de cumpleaños" ],
-			"cuaternary": [ "Catering a tu medida" ],
-			"quintinary": [ "Pidenos presupuesto" ]
+			"secondary": [ "French pâtisserie and delicatessen" ],
+			"tertiary": [ "Birthday Cakes" ],
+			"cuaternary": [ "Catering Services" ],
+			"quintinary": [ "Call us for a personalized quotation" ]
 		},
 		"subtitle": {
-			"primary": [ "Ven a conocer" ],
-			"secondary": [ "Horneamos a diario" ],
-			"tertiary": [ "Mucho mas que" ],
-			"cuaternary": [ "Si estas organizando un evento" ],
-			"quintinary": [ "Si estás organizando un evento" ]
+			"primary": [ "Come visit us" ],
+			"secondary": [ 
+				"Daily baking",
+				"Pamper yourself!",
+				"For special occasions"	
+			],
+			"tertiary": [ "Much more than" ],
+			"cuaternary": [ "If you are organizing an event" ],
+			"quintinary": [ "The best cakes" ]
 		},
 		"description": {
-			"primary": [ "Somos una empresa familiar con una importante tradición pastelera, cuarta generación de una familia dedicada a la elaboración de productos de repostería tradicional. Estamos especializados en productos de confitería y contamos con más de 40 años de experiencia en el sector." ],
+			"primary": [ "We are a family business, from a family with a long baking tradition. Four generations of our family have dedicated their lifes to bake the best cakes and cookies. We are specialized in frenc passtiserie, and we have more than 40 years of expertise in the sector" ],
 			"secondary": [ 
-				"DULCES TRADICIONALES: Huesos de san Expedito, Rosquillas  fritas, Mantecados, Empiñonadas, Tejas, Bartolillos, Rosquillas de San Isidro (listas, tontas y santa clara)",
-				"BOLLERÍA: Desde los tradicionales, como bollos como el Suizo o trenza, hasta las deliciosas bambas de nata, pepitos, y un largo etc.",
-				"TARTAS: San Marcos, Selva negra, Trufa, Trufa y nata, Nata, Cubierta de chocolate, Fresas, Fruta variada, Piñones, Cubierta de almendra, De hojaldre, Brazos de gitano, Ponche segoviano."
+				"French desserts: Café liégeois, Calisson, Charlotte, Clafoutis, Coconut cake, Crème brûlée, Crème caramel, Crêpe Suzette, Croquembouche, Custard tart, Dariole, Dame blanche, Éclair, Flaugnarde, Floating island, etc",
+				"Pastries: Banbury cake, Bougatsa, Bridie, Chouquette, Cream Horn, Croissant, Eclair, Ensaimada, Mooncake, Pain aux raisins, Pain au Chocolat, Palmier, Baklava",
+				"Cakes: Chocolate cake, strawberry cake, santiago cake, Banana Cake, Bundt Cake, Carrot Cake, Roscón de Reyes, Brownie, Schwarzwälder Kirschtorte, Punschkrapfen "
 			],
 			"tertiary": [ 
-				"Productos en nuestra carta",
-				"Tipos de tarta por encargo",
-				"Locales en Madrid",
-				"Delicioso"
+				"Delicious",
+				"Madrid stores",
+				"Products on our Menu",
+				"On-demand cakes served per month"
 			],
 			"cuaternary": [ 
-				"Si efectivamente os pasáis por la pastelería Muñoz de Alcorcón, no solo comprobareis lo rico que están sus dulces, sino que aspirareis un aire de acercamiento, de cortesía, de complicidad de sus dependientas con los clientes, y notareis que nuestra pastelería es algo mas que productos de calidad y buen precio, es un comercio tradicional, de los de siempre y notaras que al menos por ese día,tu vida, SE HA ENDULZADO.",
-				"Con mas de 40 años de antigüedad, en ella hoy en día, conviven paralelamente la pastelería tradicional con la pastelería de autor más innovadora, todo ello elaborado en su propio Obrador."
+				"If you come to {{title}} you will always find something of your liking. And if you can't find anything, just tell us which kind of pastry you would like and we will be delighted to prepare it for you right away. As long as you are ok with waiting for the dough to raise and the pastry to get baked, of course",
+				"We have been baking stuff for more than 40 years. What else can we tell you about us? We know what you do, we know our cakes, we know our pastries. Try them and you'll be back."
 			],
 			"quintinary": [ "" ]
 		}
 	},
+	"testimonial": {
+		"title": [ "Our clients" ],
+		"description": [
+			"Very yummy cakes. I like the chocolate one. The french pastries have funny names, but they are pretty good too. The coffee is just ok, so you can skip it.",
+			"After they won the XXV international baking tournament 'Ciudad de Palermo', I couldn't help to visit them to see if they were as good as they told. They are.",
+			"I've been having two of their croissants as my saturday breakfast for years. Years ago they were good, but now they are using 3x more butter, they are even better."
+		],
+		"name": [
+			"Ramon, Australia",
+			"Mikael, Finland",
+			"Joan, US"
+		]
+	},
 	"link": {
 		"contact": [
-			"Contactanos"
+			"Contact us"
 		],
 		"section": [
-			"Nuestras tartas"
+			"Our cakes"
 		]
 	}
 
