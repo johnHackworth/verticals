@@ -1,0 +1,82 @@
+{
+	"image": {
+		"big": [
+			"https://images.pexels.com/photos/835615/pexels-photo-835615.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+			"https://images.pexels.com/photos/416726/pexels-photo-416726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://images.pexels.com/photos/390051/surfer-wave-sunset-the-indian-ocean-390051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+
+		],
+		"medium": [
+			"https://images.pexels.com/photos/687459/pexels-photo-687459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=390&w=564",
+			"https://images.pexels.com/photos/1549196/pexels-photo-1549196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=390&w=564",
+			"https://images.pexels.com/photos/3569749/pexels-photo-3569749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=390&w=564"
+		],
+		"small": [
+			"https://images.pexels.com/photos/1753689/pexels-photo-1753689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
+			"https://images.pexels.com/photos/757133/pexels-photo-757133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
+			"https://images.pexels.com/photos/1275683/pexels-photo-1275683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282"
+		]
+	},
+	"background": {
+		"big": [
+			"https://images.pexels.com/photos/835615/pexels-photo-835615.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+			"https://images.pexels.com/photos/416726/pexels-photo-416726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://images.pexels.com/photos/390051/surfer-wave-sunset-the-indian-ocean-390051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+
+		],
+		"medium": [
+			"https://images.pexels.com/photos/687459/pexels-photo-687459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=390&w=564",
+			"https://images.pexels.com/photos/1549196/pexels-photo-1549196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=390&w=564",
+			"https://images.pexels.com/photos/3569749/pexels-photo-3569749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=390&w=564"
+		],
+		"small": [
+			"https://images.pexels.com/photos/1753689/pexels-photo-1753689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
+			"https://images.pexels.com/photos/757133/pexels-photo-757133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
+			"https://images.pexels.com/photos/1275683/pexels-photo-1275683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282"
+		]
+	},	
+	"text": {
+		"title": {
+			"primary": [ "{{title}}" ],
+			"secondary": [ "Tenemos lo que necesitas" ],
+			"tertiary": [ "Las mejores olas" ],
+			"cuaternary": [ "Iniciate al surf con nosotros" ],
+			"quintinary": [ "Descubre las mejores playas" ]
+		},
+		"subtitle": {
+			"primary": [ "" ],
+			"secondary": [ "Tablas, ceras, neoprenos" ],
+			"tertiary": [ "Descubre" ],
+			"cuaternary": [ "Quieres empezar?" ],
+			"quintinary": [ "Nuevo en la zona?" ]
+		},
+		"description": {
+			"primary": [ "La mejor tienda de sur de la costa del sol. Somos tu tienda de referencia" ],
+			"secondary": [ 
+				"Todo lo que necesitas para surfear",
+				"Longboards, shortboards, windsurfing",
+				"Todo tipo de accesorios"
+			],
+			"tertiary": [ 
+				"Días al de surf al año",
+				"Playas que explorar",
+				"Horas por día",
+				"Puro Surf"
+			],
+			"cuaternary": [ 
+				"<li>Material incluido</li><li>Los mejores profesores</li><li>Varios niveles</li>",
+				"Si quieres iniciarte en el surf, nuestras clases para principiantes te lo ponen facil"
+			],
+			"quintinary": [ "Contrata nuestro Surf Safari y deja que nuestros expertos te lleven a las mejores playas de la zona!" ]
+		}
+	},
+	"link": {
+		"contact": [
+			"Contactanos"
+		],
+		"section": [
+			"Nuestras playas"
+		]
+	}
+
+}

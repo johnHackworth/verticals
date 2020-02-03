@@ -1,0 +1,84 @@
+{
+	"image": {
+		"big": [
+			"https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2016/08/tarta-santiago-blog.jpg",
+			"https://images.pexels.com/photos/2147834/pexels-photo-2147834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+
+		],
+		"medium": [
+			"https://st-listas.20minutos.es/images/2013-05/361196/4020111_640px.jpg?1368458028",
+			"https://okdiario.com/img/2019/01/04/roscon-de-reyes-relleno-de-nata-655x368.jpg",
+			"https://st-listas.20minutos.es/images/2013-05/361196/4020099_640px.jpg?1368458028"
+
+		],
+		"small": [
+			"https://images.pexels.com/photos/1236680/pexels-photo-1236680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
+			"https://images.pexels.com/photos/1028704/pexels-photo-1028704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
+			"https://st-listas.20minutos.es/images/2011-02/272751/2855929_640px.jpg?1519231856"
+		]
+	},
+	"background": {
+		"big": [
+			"https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://images.pexels.com/photos/2147834/pexels-photo-2147834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2016/08/tarta-santiago-blog.jpg"
+
+		],
+		"medium": [
+			"https://okdiario.com/img/2019/01/04/roscon-de-reyes-relleno-de-nata-655x368.jpg",
+			"https://st-listas.20minutos.es/images/2013-05/361196/4020111_640px.jpg?1368458028",
+			"https://st-listas.20minutos.es/images/2013-05/361196/4020099_640px.jpg?1368458028"
+
+		],
+		"small": [
+			"https://st-listas.20minutos.es/images/2011-02/272751/2855929_640px.jpg?1519231856",
+			"https://images.pexels.com/photos/1236680/pexels-photo-1236680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282",
+			"https://images.pexels.com/photos/1028704/pexels-photo-1028704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=195&w=282"
+		]
+	},	
+	"text": {
+		"title": {
+			"primary": [ "{{title}}" ],
+			"secondary": [ "Reposteria y delicatessen" ],
+			"tertiary": [ "Tartas de cumpleaños" ],
+			"cuaternary": [ "Catering a tu medida" ],
+			"quintinary": [ "Pidenos presupuesto" ]
+		},
+		"subtitle": {
+			"primary": [ "Ven a conocer" ],
+			"secondary": [ "Horneamos a diario" ],
+			"tertiary": [ "Mucho mas que" ],
+			"cuaternary": [ "Si estas organizando un evento" ],
+			"quintinary": [ "Si estás organizando un evento" ]
+		},
+		"description": {
+			"primary": [ "Somos una empresa familiar con una importante tradición pastelera, cuarta generación de una familia dedicada a la elaboración de productos de repostería tradicional. Estamos especializados en productos de confitería y contamos con más de 40 años de experiencia en el sector." ],
+			"secondary": [ 
+				"DULCES TRADICIONALES: Huesos de san Expedito, Rosquillas  fritas, Mantecados, Empiñonadas, Tejas, Bartolillos, Rosquillas de San Isidro (listas, tontas y santa clara)",
+				"BOLLERÍA: Desde los tradicionales, como bollos como el Suizo o trenza, hasta las deliciosas bambas de nata, pepitos, y un largo etc.",
+				"TARTAS: San Marcos, Selva negra, Trufa, Trufa y nata, Nata, Cubierta de chocolate, Fresas, Fruta variada, Piñones, Cubierta de almendra, De hojaldre, Brazos de gitano, Ponche segoviano."
+			],
+			"tertiary": [ 
+				"Productos en nuestra carta",
+				"Tipos de tarta por encargo",
+				"Locales en Madrid",
+				"Delicioso"
+			],
+			"cuaternary": [ 
+				"Si efectivamente os pasáis por la pastelería Muñoz de Alcorcón, no solo comprobareis lo rico que están sus dulces, sino que aspirareis un aire de acercamiento, de cortesía, de complicidad de sus dependientas con los clientes, y notareis que nuestra pastelería es algo mas que productos de calidad y buen precio, es un comercio tradicional, de los de siempre y notaras que al menos por ese día,tu vida, SE HA ENDULZADO.",
+				"Con mas de 40 años de antigüedad, en ella hoy en día, conviven paralelamente la pastelería tradicional con la pastelería de autor más innovadora, todo ello elaborado en su propio Obrador."
+			],
+			"quintinary": [ "" ]
+		}
+	},
+	"link": {
+		"contact": [
+			"Contactanos"
+		],
+		"section": [
+			"Nuestras tartas"
+		]
+	}
+
+}

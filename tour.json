@@ -1,0 +1,84 @@
+{
+	"image": {
+		"big": [
+			"https://images.pexels.com/photos/248559/pexels-photo-248559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-page-histoire/4997/0:0,2000:690-2000-0-70/7b8bb",
+			"https://pbs.twimg.com/media/DqtFNMkX4AAUUz9?format=jpg&name=900x900"
+
+		],
+		"medium": [
+			"https://images.pexels.com/photos/93776/pexels-photo-93776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://images.pexels.com/photos/1268130/pexels-photo-1268130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://images.pexels.com/photos/1268130/pexels-photo-1268130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+
+		],
+		"small": [
+			"https://img.aso.fr/core_app/img-cycling-tdf-jpg/best-of-tour-de-france-2019/18001/312:0,1608:1080-300-0-70/54432",
+			"https://img.aso.fr/core_app/img-cycling-tdf-jpg/best-of-tour-de-france-2019/17866/312:0,1608:1080-300-0-70/18bc5",
+			"https://img.aso.fr/core_app/img-cycling-tdf-jpg/best-of-tour-de-france-2019/17814/312:0,1608:1080-300-0-70/c4532"
+		]
+	},
+	"background": {
+		"big": [
+			"https://images.pexels.com/photos/248559/pexels-photo-248559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-page-histoire/4997/0:0,2000:690-2000-0-70/7b8bb",
+			"https://pbs.twimg.com/media/DqtFNMkX4AAUUz9?format=jpg&name=900x900"
+
+		],
+		"medium": [
+			"https://images.pexels.com/photos/93776/pexels-photo-93776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://images.pexels.com/photos/1268130/pexels-photo-1268130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"https://images.pexels.com/photos/1268130/pexels-photo-1268130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+
+		],
+		"small": [
+			"https://img.aso.fr/core_app/img-cycling-tdf-jpg/best-of-tour-de-france-2019/18001/312:0,1608:1080-300-0-70/54432",
+			"https://img.aso.fr/core_app/img-cycling-tdf-jpg/best-of-tour-de-france-2019/17866/312:0,1608:1080-300-0-70/18bc5",
+			"https://img.aso.fr/core_app/img-cycling-tdf-jpg/best-of-tour-de-france-2019/17814/312:0,1608:1080-300-0-70/c4532"
+		]
+	},	
+	"text": {
+		"title": {
+			"primary": [ "{{title}}" ],
+			"secondary": [ "Cycling News" ],
+			"tertiary": [ "All the competitions" ],
+			"cuaternary": [ "Since 1993" ],
+			"quintinary": [ "Join us" ]
+		},
+		"subtitle": {
+			"primary": [ "Welcome to" ],
+			"secondary": [ "Your source for" ],
+			"tertiary": [ "We cover" ],
+			"cuaternary": [ "We look for new collaborators" ],
+			"quintinary": [ "Si estás organizando un evento" ]
+		},
+		"description": {
+			"primary": [ "Cycling Weekly is the world’s leading cycling website for news, racing, reviews, video, and fitness and training advice.<br/> As a brand, Cycling Weekly was originally founded in magazine form in 1891, with the website launching in 2006." ],
+			"secondary": [ 
+				"Total coverage of the three weeks of the tour de France",
+				"Every different part of the competition",
+				"Interviews, pictures, videos... everything you need to be part of the peloton"
+			],
+			"tertiary": [ 
+				"Authentic",
+				"Journalist on the go",
+				"Competitions covered",
+				"Interviews"
+			],
+			"cuaternary": [ 
+				"When we started, Miguel Indurain was still the big name of cycling and Lance Armstrong was just a low-level rider in a small team",
+				"We have been the online cycling news source of reference for almost three decades. Our collaborators cover races in every continent and we get insights that other media doesn't have access too"
+			],
+			"quintinary": [ "" ]
+		}
+	},
+	"link": {
+		"contact": [
+			"Contact us"
+		],
+		"section": [
+			"Join us!"
+		]
+	}
+
+}
